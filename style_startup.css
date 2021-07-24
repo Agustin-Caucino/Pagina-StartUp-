@@ -3,7 +3,7 @@ html {
   width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
-  background: url(/Volumes/AGUS/cursos-program/Curso_Udemy_Fullstack/startup_files/header.jpg) no-repeat center center fixed;
+  background: url(header.jpg) no-repeat center center fixed;
   background-size:cover;
 }
 
